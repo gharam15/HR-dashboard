@@ -1,5 +1,5 @@
 ## Turnover report
-![Dashboard Screenshot](Turnover.png)
+![Dashboard Screenshot](Turnover.PNG)
 
 
 
